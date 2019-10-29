@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ea14a08.chunk.css",
+    "main.js": "/static/js/main.17c7943a.chunk.js",
+    "main.js.map": "/static/js/main.17c7943a.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.ff9ea1f9.chunk.css": "/static/css/2.ff9ea1f9.chunk.css",
+    "static/js/2.f958d1d8.chunk.js": "/static/js/2.f958d1d8.chunk.js",
+    "static/js/2.f958d1d8.chunk.js.map": "/static/js/2.f958d1d8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5e127846bff650170054b6824c0b1980.js": "/precache-manifest.5e127846bff650170054b6824c0b1980.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ff9ea1f9.chunk.css.map": "/static/css/2.ff9ea1f9.chunk.css.map",
+    "static/css/main.7ea14a08.chunk.css.map": "/static/css/main.7ea14a08.chunk.css.map",
+    "static/media/index.css": "/static/media/back.0853c3a6.jpg",
+    "static/media/TodoList.css": "/static/media/back1.9a62b04a.jpg"
+  }
+}
